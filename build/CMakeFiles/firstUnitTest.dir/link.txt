@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/firstUnitTest.dir/src/main.cpp.o CMakeFiles/firstUnitTest.dir/src/my_class.cpp.o CMakeFiles/firstUnitTest.dir/tests/my_test.cpp.o  -o firstUnitTest -rdynamic -lboost_filesystem -lboost_system -lboost_unit_test_framework 

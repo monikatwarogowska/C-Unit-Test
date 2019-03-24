@@ -1,0 +1,4 @@
+/home/monika/Documents/COURSES/HSBC_tasks/firstUnitTest/build/CMakeFiles/edit_cache.dir
+/home/monika/Documents/COURSES/HSBC_tasks/firstUnitTest/build/CMakeFiles/test.dir
+/home/monika/Documents/COURSES/HSBC_tasks/firstUnitTest/build/CMakeFiles/test_constructors.dir
+/home/monika/Documents/COURSES/HSBC_tasks/firstUnitTest/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test_constructors.dir/src/my_class.cpp.o CMakeFiles/test_constructors.dir/tests/my_test.cpp.o  -o test_constructors -rdynamic -lboost_unit_test_framework 

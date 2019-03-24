@@ -1,0 +1,21 @@
+Start testing: Mar 24 16:58 CET
+----------------------------------------------------------
+1/1 Testing: test_constructors
+1/1 Test: test_constructors
+Command: "/home/monika/Documents/COURSES/HSBC_tasks/firstUnitTest/build/test_constructors"
+Directory: /home/monika/Documents/COURSES/HSBC_tasks/firstUnitTest/build
+"test_constructors" start time: Mar 24 16:58 CET
+Output:
+----------------------------------------------------------
+Running 1 test case...
+
+*** No errors detected
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_constructors" end time: Mar 24 16:58 CET
+"test_constructors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 24 16:58 CET
